@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reluapad/static/css/main.56231d42.chunk.css",
-    "main.js": "/reluapad/static/js/main.8d655d1b.chunk.js",
-    "main.js.map": "/reluapad/static/js/main.8d655d1b.chunk.js.map",
+    "main.js": "/reluapad/static/js/main.a627c96d.chunk.js",
+    "main.js.map": "/reluapad/static/js/main.a627c96d.chunk.js.map",
     "runtime-main.js": "/reluapad/static/js/runtime-main.5d670e47.js",
     "runtime-main.js.map": "/reluapad/static/js/runtime-main.5d670e47.js.map",
     "static/js/2.ab0cfa91.chunk.js": "/reluapad/static/js/2.ab0cfa91.chunk.js",
     "static/js/2.ab0cfa91.chunk.js.map": "/reluapad/static/js/2.ab0cfa91.chunk.js.map",
     "index.html": "/reluapad/index.html",
-    "precache-manifest.d66407bcf717d408a185777c839f1624.js": "/reluapad/precache-manifest.d66407bcf717d408a185777c839f1624.js",
+    "precache-manifest.bd70c9156e8e28e05b53ba2a4a6130f4.js": "/reluapad/precache-manifest.bd70c9156e8e28e05b53ba2a4a6130f4.js",
     "service-worker.js": "/reluapad/service-worker.js",
     "static/css/main.56231d42.chunk.css.map": "/reluapad/static/css/main.56231d42.chunk.css.map",
     "static/js/2.ab0cfa91.chunk.js.LICENSE.txt": "/reluapad/static/js/2.ab0cfa91.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.5d670e47.js",
     "static/js/2.ab0cfa91.chunk.js",
     "static/css/main.56231d42.chunk.css",
-    "static/js/main.8d655d1b.chunk.js"
+    "static/js/main.a627c96d.chunk.js"
   ]
 }
