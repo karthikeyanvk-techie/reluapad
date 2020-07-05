@@ -11,7 +11,7 @@ export default class Routes extends Component{
             <>
             <div>{console.log(process.env.PUBLIC_URL)}</div>
             
-            <Router history={history} >
+            <Router history={history} basename={process.env.PUBLIC_URL}>
                 <Switch>
                     <Route path='/' exact component={App}></Route>
                     <Route path='/template1' component={template1}></Route>
