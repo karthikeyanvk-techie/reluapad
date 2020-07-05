@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-
+import { HashRouter } from "react-router-dom";
 
 export default class template1 extends Component {
     render() {
         return (
+          <HashRouter basename='/template1'>
             <div className="template1" data-spy="scroll" data-offset="64" data-target="#section-topbar">
             <div id="section-topbar">
             <div id="topbar-inner">
@@ -361,6 +362,7 @@ I'm currently seeking Scrum Master opportunities, so if you'd like to work toget
             </div>
           </div>
         </div>
+        </HashRouter>
         )
     }
 }

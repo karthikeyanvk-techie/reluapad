@@ -10,8 +10,8 @@ export default class Routes extends Component{
         return (
             <Router history={history}>
                 <Switch>
-                    <Route path="/" exact component={App}></Route>
-                    <Route path="/template1" exact component={template1}></Route>
+                    <Route path={process.env.PUBLIC_URL + '/'} exact component={App}></Route>
+                    <Route path={process.env.PUBLIC_URL + '/template1'} exact component={template1}></Route>
                 </Switch>
             </Router>
         )
