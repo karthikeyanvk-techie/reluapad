@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c88ebe1208f69a4447721cf5f09cd9af",
+    "revision": "cb0ca7939f51a6a6ae5ee44f9a5b936f",
     "url": "/reluapad/index.html"
   },
   {
-    "revision": "9052e55f58eed3c6a397",
-    "url": "/reluapad/static/css/main.566a1ef8.chunk.css"
+    "revision": "c4f8b63e2e3034f41e45",
+    "url": "/reluapad/static/css/main.56231d42.chunk.css"
   },
   {
-    "revision": "0a9a0533ec804019601f",
-    "url": "/reluapad/static/js/2.534b5f8c.chunk.js"
+    "revision": "c1a4a3604fd1c65a7099",
+    "url": "/reluapad/static/js/2.fc535183.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/reluapad/static/js/2.534b5f8c.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/reluapad/static/js/2.fc535183.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9052e55f58eed3c6a397",
-    "url": "/reluapad/static/js/main.ed561173.chunk.js"
+    "revision": "c4f8b63e2e3034f41e45",
+    "url": "/reluapad/static/js/main.ef45f947.chunk.js"
   },
   {
     "revision": "af2ce2a499aaa66446f7",
