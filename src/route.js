@@ -1,5 +1,5 @@
 import React, {Component } from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, createHistory } from "react-router-dom";
 
 import template1 from "./template/template1";
 import App from "./App";
@@ -11,10 +11,10 @@ export default class Routes extends Component{
             <>
             <div>{console.log(process.env.PUBLIC_URL)}</div>
             
-            <Router history={history} basename={process.env.PUBLIC_URL}>
+            <Router history={history} >
                 <Switch>
                     <Route path='/' exact component={App}></Route>
-                    <Route path='/template1' exact component={template1}></Route>
+                    <Route path='/template1' component={template1}></Route>
                 </Switch>
             </Router>
             </>
