@@ -1,5 +1,5 @@
 import React, {Component } from "react";
-import { BrowserRouter as Router, Switch, Route, createHistory } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, createHistory } from "react-router-dom";
 
 import template1 from "./template/template1";
 import App from "./App";
