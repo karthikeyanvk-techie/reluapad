@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reluapad/precache-manifest.a9fd3ebaaef6655020ff89d69cc62a9b.js"
+  "/reluapad/precache-manifest.96d991e0a33d7ed1419281c06eb487b9.js"
 );
 
 self.addEventListener('message', (event) => {
