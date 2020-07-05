@@ -1,24 +1,22 @@
 {
   "files": {
     "main.css": "/reluapad/static/css/main.566a1ef8.chunk.css",
-    "main.js": "/reluapad/static/js/main.c888da57.chunk.js",
-    "main.js.map": "/reluapad/static/js/main.c888da57.chunk.js.map",
+    "main.js": "/reluapad/static/js/main.ed561173.chunk.js",
+    "main.js.map": "/reluapad/static/js/main.ed561173.chunk.js.map",
     "runtime-main.js": "/reluapad/static/js/runtime-main.5d670e47.js",
     "runtime-main.js.map": "/reluapad/static/js/runtime-main.5d670e47.js.map",
-    "static/js/2.266bac22.chunk.js": "/reluapad/static/js/2.266bac22.chunk.js",
-    "static/js/2.266bac22.chunk.js.map": "/reluapad/static/js/2.266bac22.chunk.js.map",
+    "static/js/2.534b5f8c.chunk.js": "/reluapad/static/js/2.534b5f8c.chunk.js",
+    "static/js/2.534b5f8c.chunk.js.map": "/reluapad/static/js/2.534b5f8c.chunk.js.map",
     "index.html": "/reluapad/index.html",
-    "precache-manifest.af77f6ae1ec8f4e49ba5aa9addc86364.js": "/reluapad/precache-manifest.af77f6ae1ec8f4e49ba5aa9addc86364.js",
+    "precache-manifest.8ac3e7fdad5d4eca72d868edf3dc3068.js": "/reluapad/precache-manifest.8ac3e7fdad5d4eca72d868edf3dc3068.js",
     "service-worker.js": "/reluapad/service-worker.js",
     "static/css/main.566a1ef8.chunk.css.map": "/reluapad/static/css/main.566a1ef8.chunk.css.map",
-    "static/js/2.266bac22.chunk.js.LICENSE.txt": "/reluapad/static/js/2.266bac22.chunk.js.LICENSE.txt",
+    "static/js/2.534b5f8c.chunk.js.LICENSE.txt": "/reluapad/static/js/2.534b5f8c.chunk.js.LICENSE.txt",
     "static/media/icons.css": "/reluapad/static/media/mfglabsiconset-webfont.f130ab32.ttf",
     "static/media/app.png": "/reluapad/static/media/app.4e27be52.png",
     "static/media/arrow-object-dark.svg": "/reluapad/static/media/arrow-object-dark.f2b3f498.svg",
     "static/media/img-02.jpg": "/reluapad/static/media/img-02.779e04a8.jpg",
     "static/media/img-05.jpg": "/reluapad/static/media/img-05.0fd88d70.jpg",
-    "static/media/logo-3.png": "/reluapad/static/media/logo-3.eb32db53.png",
-    "static/media/logo-5.png": "/reluapad/static/media/logo-5.30522f7f.png",
     "static/media/logo-black.png": "/reluapad/static/media/logo-black.5c007eac.png",
     "static/media/logo.png": "/reluapad/static/media/logo.6dd852ff.png",
     "static/media/responsive-01.png": "/reluapad/static/media/responsive-01.bd695437.png",
@@ -29,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5d670e47.js",
-    "static/js/2.266bac22.chunk.js",
+    "static/js/2.534b5f8c.chunk.js",
     "static/css/main.566a1ef8.chunk.css",
-    "static/js/main.c888da57.chunk.js"
+    "static/js/main.ed561173.chunk.js"
   ]
 }
