@@ -18,4 +18,4 @@ jQuery(document).ready(function( $ ) {
     interval: 3500
   });
 
-}
+});
