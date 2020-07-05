@@ -28,11 +28,11 @@ function App() {
              <ul className="right top-ul chevron">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="about-us.html">About Us</a></li>
-             </ul>
+  </ul>
           </div>
           <ul className="logo-menu">
             <a href="index.html" className="logo">
-              <img className="logo-white" src={require('./img/logo.png')} alt="" />
+              <img className="logo-white" src={require('./img/logo-black.png')} alt="" />
               <img className="logo-dark" src={require('./img/logo-black.png')} alt="" />
             </a>
           </ul>
@@ -41,14 +41,14 @@ function App() {
              <ul className="top-ul chevron">
                 <li><a href="gallery.html">Templates</a></li>
                 <li><a href="contact.html">Contact</a></li>
-             </ul> 
+  </ul> 
           </div>
         </div>
       </nav>
     </header>
 
     <main role="main">    
-      <header className="section-top-padding background-image text-center" style={{backgroundImage:`url(${myImageBg})`}}>
+      <header className="section-top-padding background-image text-center" style={{background:"#28a5df"}}>
         <h1 className="text-extra-thin text-white text-s-size-30 text-m-size-40 text-size-50 text-line-height-1 margin-bottom-40 margin-top-130">
           Save your Time and Keep Calm
         </h1>
@@ -236,30 +236,13 @@ function App() {
 
       <section className="section-small-padding background-grey">   
         <div className="margin2x">
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-1.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-2.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-3.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-1.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-4.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-5.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-3.png')}/>
-           </div>
-           <div className="m-6 l-1">
-              <img className="margin-bottom" src={require('./img/logo-1.png')}/>
-           </div>
+          
+            <a href="/"><i className="icon-facebook_circle text-size-25 text-dark"></i></a> 
+            <a href="/"><i className="icon-twitter_circle text-size-25 text-dark"></i></a>
+            <a href="/"><i className="icon-google_plus_circle text-size-25 text-dark"></i></a>
+            <a href="/"><i className="icon-instagram_circle text-size-25 text-dark"></i></a> 
+            <a href="/"><i className="icon-linked_in_circle text-size-25 text-dark"></i></a>                                                                       
+        
         </div>
       </section> 
       
@@ -270,13 +253,7 @@ function App() {
     
     <footer>
       
-      <div className="background-primary padding text-center">
-        <a href="/"><i className="icon-facebook_circle text-size-25 text-dark"></i></a> 
-        <a href="/"><i className="icon-twitter_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i className="icon-google_plus_circle text-size-25 text-dark"></i></a>
-        <a href="/"><i className="icon-instagram_circle text-size-25 text-dark"></i></a> 
-        <a href="/"><i className="icon-linked_in_circle text-size-25 text-dark"></i></a>                                                                       
-      </div>
+      
      
       <section className="section background-dark">
         <div className="line"> 
