@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7cdd9b3c521a626e94556d1633daa51",
+    "revision": "48eacd571fcce7fdd7a0ce3fd43cee4f",
     "url": "/reluapad/index.html"
   },
   {
-    "revision": "1ab7ffafc5d4a97aa2fa",
+    "revision": "ee9dd9f8adf0ece2b754",
     "url": "/reluapad/static/css/main.56231d42.chunk.css"
   },
   {
-    "revision": "7c0d35817245de13f7ae",
-    "url": "/reluapad/static/js/2.ab0cfa91.chunk.js"
+    "revision": "183cd24acf6e3fd6fcef",
+    "url": "/reluapad/static/js/2.2e18c851.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reluapad/static/js/2.ab0cfa91.chunk.js.LICENSE.txt"
+    "url": "/reluapad/static/js/2.2e18c851.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ab7ffafc5d4a97aa2fa",
-    "url": "/reluapad/static/js/main.3d09fee0.chunk.js"
+    "revision": "ee9dd9f8adf0ece2b754",
+    "url": "/reluapad/static/js/main.ebbd178f.chunk.js"
   },
   {
     "revision": "af2ce2a499aaa66446f7",
