@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "926f9a0bc65ff97f9c80f984dda85c2a",
+    "revision": "ed0b5dd4cb2c6de06821e70166e8752b",
     "url": "/karthikeyanvk-techie/reluapad/index.html"
   },
   {
-    "revision": "d7f7305ca4d62354bb8d",
+    "revision": "6b02c7eaf225e762b755",
     "url": "/karthikeyanvk-techie/reluapad/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karthikeyanvk-techie/reluapad/static/js/2.c23002e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7f7305ca4d62354bb8d",
-    "url": "/karthikeyanvk-techie/reluapad/static/js/main.aa43dd5a.chunk.js"
+    "revision": "6b02c7eaf225e762b755",
+    "url": "/karthikeyanvk-techie/reluapad/static/js/main.f8b64627.chunk.js"
   },
   {
     "revision": "78ebdc6efd80006eca4f",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/karthikeyanvk-techie/reluapad/precache-manifest.e9f755d8f33f03c00bc3de939822a63a.js"
+  "/karthikeyanvk-techie/reluapad/precache-manifest.837b8611db7152c0d4add01df1654e18.js"
 );
 
 self.addEventListener('message', (event) => {

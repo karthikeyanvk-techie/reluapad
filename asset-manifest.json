@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/karthikeyanvk-techie/reluapad/static/css/main.5f361e03.chunk.css",
-    "main.js": "/karthikeyanvk-techie/reluapad/static/js/main.aa43dd5a.chunk.js",
-    "main.js.map": "/karthikeyanvk-techie/reluapad/static/js/main.aa43dd5a.chunk.js.map",
+    "main.js": "/karthikeyanvk-techie/reluapad/static/js/main.f8b64627.chunk.js",
+    "main.js.map": "/karthikeyanvk-techie/reluapad/static/js/main.f8b64627.chunk.js.map",
     "runtime-main.js": "/karthikeyanvk-techie/reluapad/static/js/runtime-main.7b60808a.js",
     "runtime-main.js.map": "/karthikeyanvk-techie/reluapad/static/js/runtime-main.7b60808a.js.map",
     "static/js/2.c23002e6.chunk.js": "/karthikeyanvk-techie/reluapad/static/js/2.c23002e6.chunk.js",
     "static/js/2.c23002e6.chunk.js.map": "/karthikeyanvk-techie/reluapad/static/js/2.c23002e6.chunk.js.map",
     "index.html": "/karthikeyanvk-techie/reluapad/index.html",
-    "precache-manifest.e9f755d8f33f03c00bc3de939822a63a.js": "/karthikeyanvk-techie/reluapad/precache-manifest.e9f755d8f33f03c00bc3de939822a63a.js",
+    "precache-manifest.837b8611db7152c0d4add01df1654e18.js": "/karthikeyanvk-techie/reluapad/precache-manifest.837b8611db7152c0d4add01df1654e18.js",
     "service-worker.js": "/karthikeyanvk-techie/reluapad/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/karthikeyanvk-techie/reluapad/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.c23002e6.chunk.js.LICENSE.txt": "/karthikeyanvk-techie/reluapad/static/js/2.c23002e6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7b60808a.js",
     "static/js/2.c23002e6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.aa43dd5a.chunk.js"
+    "static/js/main.f8b64627.chunk.js"
   ]
 }
