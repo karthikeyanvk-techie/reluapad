@@ -1,12 +1,25 @@
 .App {
   text-align: center;
 }
-
+.boxButton {
+    background: #44bbaa;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    cursor: pointer;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.template1 p {
+  font-size: 1.5rem !important;
+}
+.template1 h5 {
+    font-size: 2.1rem !important;
+    font-weight: bold;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

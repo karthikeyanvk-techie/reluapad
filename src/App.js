@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import myImageBg from '././img/img-05.jpg';
 import './App.css';
 import './css/template-style.css';
@@ -7,8 +7,10 @@ import './css/icons.css';
 import './css/responsee.css';
 import './owl-carousel/owl.carousel.css';
 import './owl-carousel/owl.theme.css';
+import history from './history';
 
-function App() {
+export default class App extends Component {
+  render() {
   return (
     <div className="App">
        
@@ -75,7 +77,13 @@ function App() {
           </div>                                                                                               
         </div>       
   </section>*/}
-      
+      <section className="section-small-padding background-grey"> 
+        <div className="line text-center">
+          <div className="boxButton" onClick={()=> history.push('/template1')}>
+              Template 1
+          </div>
+        </div>
+      </section>
       <section className="section-top-padding background-white">
         <div className="line text-center">
           <i className="icon-sli-heart text-primary text-size-40"></i>
@@ -301,5 +309,5 @@ function App() {
     </div>
   );
 }
+}
 
-export default App;
