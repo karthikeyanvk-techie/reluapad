@@ -1,23 +1,36 @@
 {
   "files": {
-    "main.css": "/reluapad/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reluapad/static/js/main.fa863970.chunk.js",
-    "main.js.map": "/reluapad/static/js/main.fa863970.chunk.js.map",
+    "main.css": "/reluapad/static/css/main.566a1ef8.chunk.css",
+    "main.js": "/reluapad/static/js/main.c888da57.chunk.js",
+    "main.js.map": "/reluapad/static/js/main.c888da57.chunk.js.map",
     "runtime-main.js": "/reluapad/static/js/runtime-main.5d670e47.js",
     "runtime-main.js.map": "/reluapad/static/js/runtime-main.5d670e47.js.map",
-    "static/js/2.c23002e6.chunk.js": "/reluapad/static/js/2.c23002e6.chunk.js",
-    "static/js/2.c23002e6.chunk.js.map": "/reluapad/static/js/2.c23002e6.chunk.js.map",
+    "static/js/2.266bac22.chunk.js": "/reluapad/static/js/2.266bac22.chunk.js",
+    "static/js/2.266bac22.chunk.js.map": "/reluapad/static/js/2.266bac22.chunk.js.map",
     "index.html": "/reluapad/index.html",
-    "precache-manifest.97d8f5d9a0d35e3dcb1b16b7122cbe20.js": "/reluapad/precache-manifest.97d8f5d9a0d35e3dcb1b16b7122cbe20.js",
+    "precache-manifest.af77f6ae1ec8f4e49ba5aa9addc86364.js": "/reluapad/precache-manifest.af77f6ae1ec8f4e49ba5aa9addc86364.js",
     "service-worker.js": "/reluapad/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/reluapad/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c23002e6.chunk.js.LICENSE.txt": "/reluapad/static/js/2.c23002e6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reluapad/static/media/logo.5d5d9eef.svg"
+    "static/css/main.566a1ef8.chunk.css.map": "/reluapad/static/css/main.566a1ef8.chunk.css.map",
+    "static/js/2.266bac22.chunk.js.LICENSE.txt": "/reluapad/static/js/2.266bac22.chunk.js.LICENSE.txt",
+    "static/media/icons.css": "/reluapad/static/media/mfglabsiconset-webfont.f130ab32.ttf",
+    "static/media/app.png": "/reluapad/static/media/app.4e27be52.png",
+    "static/media/arrow-object-dark.svg": "/reluapad/static/media/arrow-object-dark.f2b3f498.svg",
+    "static/media/img-02.jpg": "/reluapad/static/media/img-02.779e04a8.jpg",
+    "static/media/img-05.jpg": "/reluapad/static/media/img-05.0fd88d70.jpg",
+    "static/media/logo-3.png": "/reluapad/static/media/logo-3.eb32db53.png",
+    "static/media/logo-5.png": "/reluapad/static/media/logo-5.30522f7f.png",
+    "static/media/logo-black.png": "/reluapad/static/media/logo-black.5c007eac.png",
+    "static/media/logo.png": "/reluapad/static/media/logo.6dd852ff.png",
+    "static/media/responsive-01.png": "/reluapad/static/media/responsive-01.bd695437.png",
+    "static/media/responsive-02.png": "/reluapad/static/media/responsive-02.3292b082.png",
+    "static/media/responsive-03.png": "/reluapad/static/media/responsive-03.0264b8fe.png",
+    "static/media/responsive-04.png": "/reluapad/static/media/responsive-04.1f2a36f9.png",
+    "static/media/start-your-business.svg": "/reluapad/static/media/start-your-business.83cab3c3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d670e47.js",
-    "static/js/2.c23002e6.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fa863970.chunk.js"
+    "static/js/2.266bac22.chunk.js",
+    "static/css/main.566a1ef8.chunk.css",
+    "static/js/main.c888da57.chunk.js"
   ]
 }
