@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed7f6db020272b69eed21bb35738b571",
+    "revision": "51c300317daae5b5d7750f4ae36374f1",
     "url": "/reluapad/index.html"
   },
   {
-    "revision": "a8d75650b699dda20280",
-    "url": "/reluapad/static/css/main.56231d42.chunk.css"
+    "revision": "be24373829a75d097a95",
+    "url": "/reluapad/static/css/main.42671089.chunk.css"
   },
   {
-    "revision": "183cd24acf6e3fd6fcef",
-    "url": "/reluapad/static/js/2.2e18c851.chunk.js"
+    "revision": "8aa70d879b8d4c70b26a",
+    "url": "/reluapad/static/js/2.18a7dbd5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reluapad/static/js/2.2e18c851.chunk.js.LICENSE.txt"
+    "url": "/reluapad/static/js/2.18a7dbd5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8d75650b699dda20280",
-    "url": "/reluapad/static/js/main.2a36f337.chunk.js"
+    "revision": "be24373829a75d097a95",
+    "url": "/reluapad/static/js/main.36e97b22.chunk.js"
   },
   {
     "revision": "af2ce2a499aaa66446f7",
@@ -42,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f2b3f4989da0295a166cdb733237cb36",
     "url": "/reluapad/static/media/arrow-object-dark.f2b3f498.svg"
+  },
+  {
+    "revision": "35218858a32caf218a9166ed4b5e2580",
+    "url": "/reluapad/static/media/cc-bg-1.35218858.jpg"
+  },
+  {
+    "revision": "e165a32b4e032329a38dff51bda427df",
+    "url": "/reluapad/static/media/header-bg.e165a32b.jpg"
   },
   {
     "revision": "779e04a8ce4176fb537b1760ab58a191",
@@ -76,6 +84,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reluapad/static/media/mfglabsiconset-webfont.f130ab32.ttf"
   },
   {
+    "revision": "22a0bffe789c286a9d78eb52670996a7",
+    "url": "/reluapad/static/media/nucleo-outline.22a0bffe.ttf"
+  },
+  {
+    "revision": "24e2d6b43b1b0f84fdfaa06a4032f154",
+    "url": "/reluapad/static/media/nucleo-outline.24e2d6b4.woff"
+  },
+  {
+    "revision": "53a1bed7a3ec86d010fe100873828a89",
+    "url": "/reluapad/static/media/nucleo-outline.53a1bed7.eot"
+  },
+  {
+    "revision": "8ebec31f5ce59f908db84d86aed5947f",
+    "url": "/reluapad/static/media/nucleo-outline.8ebec31f.woff2"
+  },
+  {
     "revision": "bd6954378214ff2e1664307c7e5853e2",
     "url": "/reluapad/static/media/responsive-01.bd695437.png"
   },
@@ -94,5 +118,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83cab3c3d82f9e6e786a00bd268bab78",
     "url": "/reluapad/static/media/start-your-business.83cab3c3.svg"
+  },
+  {
+    "revision": "8221bc81454d40fd7900bda6d88770fd",
+    "url": "/reluapad/static/media/staticmap.8221bc81.png"
   }
 ]);
