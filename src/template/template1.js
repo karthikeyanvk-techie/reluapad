@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { HashRouter } from "react-router-dom";
+import {profileProperties } from "../profileproperties";
 
+const profile = profileProperties;
 export default class template1 extends Component {
     render() {
         return (
@@ -43,8 +45,8 @@ export default class template1 extends Component {
             <div className="container">
               <div className="row centered">
                 <div className="col-lg-12" style={{paddingRight:"350px"}}>
-                  <h1>Mukthar Ahamad</h1>
-                  <h3>Scrum Master| mukthar@reluapad.tk</h3>
+                  <h1>{profile.ppName}</h1>
+                  <h3>{profile.ppRole} | {profile.ppEmail}</h3>
                 </div>
                 
               </div>
@@ -65,16 +67,7 @@ export default class template1 extends Component {
                   </div>
                   <div className="col-lg-6">
                     <p>
-                    From a very early age I like to solve problems. I'm a seasoned project consultant with 4 years' experience in project envisioning, planning, and executing software products in the E-commerce, Software Integration and Medical industry .Throughout my career, I have been driven by my intellectual curiosity to continuous learn and adapt to changing dynamics.
-
-With my refined skill set, I bring customer-centric products that enables firms to innovate and grow. 
-This is what I've done for my clients with Lenovo, LG Electronics and Abbott Laboratories.
-<br />
-<br></br>
-Outside of work, I spend time playing basketball, cooking new cuisines, outdoor adventures, and participating in networking events.
-<br />
-<br></br>
-I'm currently seeking Scrum Master opportunities, so if you'd like to work together, contact me.
+                    <div dangerouslySetInnerHTML={ {__html: profile.ppAbout} } /> 
                     </p>
                   </div>
                   <div className="col-lg-3">
@@ -102,25 +95,25 @@ I'm currently seeking Scrum Master opportunities, so if you'd like to work toget
                 </div>
                 <div className="col-lg-6">
                   <p>
-                    <span>Master's degree, Management of Technology</span><br/>National University of Singapore <br/>
-                    <i>1 Year Course</i>
+                    <span>{profile.ppDegreePG}</span><br/>{profile.ppCollegePG} <br/>
+                    <i>{profile.ppCourseYearPG}</i>
                   </p>
                 </div>
                 <div className="col-lg-3">
                   <p>
-                    <span>GRADUATED IN JUNE 2018</span><br/>
+                    <span>GRADUATED IN {profile.ppYearPG}</span><br/>
                   </p>
                 </div>
         
                 <div className="col-lg-6 col-lg-offset-3">
                   <p>
-                    <span> Bachelor of Engineering (B.E.) , Electronics and Communications Engineering</span><br/> Bannari Amman Institute of Technology <br/>
-                    <i>4 Years Course</i>
+                    <span>{profile.ppDegreeUG} </span><br/> {profile.ppCollegeUG} <br/>
+                    <i>{profile.ppCourseYearUG}</i>
                   </p>
                 </div>
                 <div className="col-lg-3">
                   <p>
-                    <span>GRADUATED IN MAY 2014</span>
+                    <span>GRADUATED IN {profile.ppYearUG}</span>
                   </p>
                 </div>
         
@@ -142,58 +135,42 @@ I'm currently seeking Scrum Master opportunities, so if you'd like to work toget
               </div>
               <div className="col-lg-6">
                 <p>
-                  <span>Project Consultant</span><br/> Pro Bono Affiliations, Singapore <br/>
+                  <span>{profile.ppExpOneRole}</span><br/> {profile.ppExpOneCompany} <br/>
                 </p>
                 <p>
-                  <more>•	Optimized performance by using Agile framework to increase productivity by 37% on performance management system with scrum team for health care SME 
-                      <br />   •	Collaborated with Invenio.AI- artificial intelligence based hiring platform start-up, to help in user research and hypothesis validation
-                      <br />  •	Volunteering with Singapore-based hypermarket in warehouse operations since February
-                  </more>
+                  <more><div dangerouslySetInnerHTML={ {__html: profile.ppExpOneResponsibility} } /> </more>
                 </p>
               </div>
               <div className="col-lg-3">
                 <p>
-                  <span>Sept 2019 - CURRENT</span>
+                  <span>{profile.ppExpOneTime}</span>
                 </p>
               </div>
         
               <div className="col-lg-6 col-lg-offset-3">
-                <p>
-                  <span>Project Consultant</span><br/> TalentKraft, Singapore <br/>
+              <p>
+                  <span>{profile.ppExpTwoRole}</span><br/> {profile.ppExpTwoCompany} <br/>
                 </p>
                 <p>
-                  <more> 
-                  •	Saved time for travel start-up by 40% and lifestyle start-up by 55% through new process optimisation techniques
-                  <br></br>•	Devised and implemented 2 recruitment framework projects involving engineering practises using scrum framework involving technology-based hiring methods
-                  <br></br>•	Gathered requirements, defined, estimated budget, planned and executed projects to meet customer demand up to 95%
-                  <br></br>•	Initiated monthly meet-ups to build product community in Asia
-                  </more> 
+                  <more><div dangerouslySetInnerHTML={ {__html: profile.ppExpTwoResponsibility} } /> </more>
                 </p>
               </div>
               <div className="col-lg-3">
                 <p>
-                  <span>Feb 19 – Aug 19</span>
+                  <span>{profile.ppExpTwoTime}</span>
                 </p>
               </div>
               <div className="col-lg-6 col-lg-offset-3">
-                <p>
-                  <span>Junior Project Engineer</span><br/> Flex, India <br/>
+              <p>
+                  <span>{profile.ppExpThreeRole}</span><br/> {profile.ppExpThreeCompany} <br/>
                 </p>
                 <p>
-                  <more> 
-                  •	Planned and coordinated to support development of advanced cancer equipment, worth USD 5M
-                  <br></br>•	Collaborated with product teams to develop products on new optimized process leading to USD 155,000 savings
-                  <br></br>•	Gathered requirements, defined scopes and managed 5 consumer products development with support of global team
-                  <br></br>•	Liaised with internal organization, clients and suppliers, and maintained open communication lines on project phases
-                  <br></br>•	Awarded employee of quarter in 2016(Q2)
-                  <br></br>•	Devised roadmap on improving communication and presentation skills for fresh graduates in 150 days 
-
-                  </more> 
+                  <more><div dangerouslySetInnerHTML={ {__html: profile.ppExpThreeResponsibility} } /> </more>
                 </p>
               </div>
               <div className="col-lg-3">
                 <p>
-                  <span> Mar 15 – Dec 16</span>
+                  <span>{profile.ppExpThreeTime}</span>
                 </p>
               </div>
             </div>
@@ -285,10 +262,10 @@ I'm currently seeking Scrum Master opportunities, so if you'd like to work toget
                   </div>
                   <div className="col-lg-4">
                     <p>
-                      <span>Email</span><br/> mukthar@reluapad.tk <br/>
+                      <span>Email</span><br/> {profile.ppEmail} <br/>
                     </p>
                     <p>
-                      <span>Phone</span><br/> +65 8302 1816 <br/>
+                      <span>Phone</span><br/> {profile.ppPhone} <br/>
                     </p>
                     <p>
                       <span>Social Links</span><br/>

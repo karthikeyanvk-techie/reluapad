@@ -82,6 +82,11 @@ export default class App extends Component {
           <div className="boxButton" onClick={()=> window.location.href="/reluapad/#/template1"}>
               Template 1
           </div>
+          <br />
+          <br />
+          <div className="boxButton" onClick={()=> window.location.href="/reluapad/#/template2"}>
+              Template 2
+          </div>
         </div>
       </section>
       <section className="section-top-padding background-white">
