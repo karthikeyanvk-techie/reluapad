@@ -23,10 +23,10 @@ export default class template2 extends Component {
             </div>
             <div className="collapse navbar-collapse justify-content-end" id="navigation">
               <ul className="navbar-nav">
-                <li className="nav-item"><a className="nav-link smooth-scroll" href="#about">About</a></li>
-                <li className="nav-item"><a className="nav-link smooth-scroll" href="#skill">Skills</a></li>
-                <li className="nav-item"><a className="nav-link smooth-scroll" href="#experience">Experience</a></li>
-                <li className="nav-item"><a className="nav-link smooth-scroll" href="#contact">Contact</a></li>
+                <li className="nav-item"><a className="nav-link smooth-scroll" href="#">About</a></li>
+                <li className="nav-item"><a className="nav-link smooth-scroll" href="#">Skills</a></li>
+                <li className="nav-item"><a className="nav-link smooth-scroll" href="#">Experience</a></li>
+                <li className="nav-item"><a className="nav-link smooth-scroll" href="#">Contact</a></li>
               </ul>
             </div>
           </div>
