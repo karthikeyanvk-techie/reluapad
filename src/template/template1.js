@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { HashRouter } from "react-router-dom";
 import {profileProperties } from "../profileproperties";
+import myImage from '../img/header-bg.jpg';
 
 const profile = profileProperties;
 export default class template1 extends Component {
@@ -41,7 +42,7 @@ export default class template1 extends Component {
           </div>
          
         
-          <div id="headerwrap">
+          <div id="headerwrap" style={{background: `url(${myImage}) right center no-repeat`}}>
             <div className="container">
               <div className="row centered">
                 <div className="col-lg-12" style={{paddingRight:"350px"}}>
