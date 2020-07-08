@@ -157,6 +157,7 @@ SECTION WRAPS
 
 #headerwrap {
   background: url(../img/header-bg.jpg) no-repeat right;
+  background-size: contain !important;
   margin-top: 60px;
   padding-top: 140px;
   text-align: left;
