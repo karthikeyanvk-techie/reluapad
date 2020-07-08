@@ -4,7 +4,7 @@ import {profileProperties } from "../profileproperties";
 import '../css/template2-style.css';
 import '../css/aos.css';
 import '../css/bootstrap.min.css';
-import myImage from '../img/header-bg.jpg';
+import myImage from '../img/header-bg2.jpg';
 import myImg_1 from '../images/cc-bg-1.jpg';
 import myImg_2 from '../images/staticmap.png';
 
